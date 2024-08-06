@@ -846,7 +846,6 @@ body {
 .blog-card .card-title {
   text-align: center;
   margin-block: 30px 20px;
-  transition: var(--transition-1);
 }
 
 .blog-card .card-title:is(:hover, :focus) { color: var(--hoockers-green); }
