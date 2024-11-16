@@ -37,12 +37,12 @@
   --white: hsl(0, 0%, 100%);
   --black: hsl(0, 0%, 0%);
   .card-title {
-    color: var(--white); /* Change text color to white */
+    color: var(--black); /* Change text color to white */
     font-size: 4rem; /* Increase font size */
   line-height: 1.2;  /* Adjust line height if necessary */
   }
   .btn-link {
-    color: var(--white); /* Change text color to white */
+    color: var(--black); /* Change text color to white */
     font-size: 2rem; /* Increase font size */
   }
   
